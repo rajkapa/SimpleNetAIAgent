@@ -1,0 +1,6 @@
+@SimpleNetAIAgent_HostAddress = http://localhost:5103
+
+GET {{SimpleNetAIAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
