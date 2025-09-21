@@ -13,6 +13,8 @@ SimpleNetAIAgent is a .NET 8 web API application designed to process healthcare 
 - **FluentValidation:** Request validation via endpoint filters.
 - **Polly Policies:** Resilient HTTP client configuration with retry and timeout policies.
 - **CORS Support:** Configurable cross-origin resource sharing.
+- **Swagger Support:** Enabled only in Dev Environment and easy for testing.
+- **Code Quality:** Production Grade AOT ready.
 
 ## Getting Started
 
