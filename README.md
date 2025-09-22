@@ -15,6 +15,8 @@ SimpleNetAIAgent is a .NET 8 web API application designed to process healthcare 
 - **CORS Support:** Configurable cross-origin resource sharing.
 - **Swagger Support:** Enabled only in Dev Environment and easy for testing.
 - **Code Quality:** Production Grade AOT ready.
+- **Request and Response Models:** Clear data models for API interactions.
+- **Request Model:** Takes feedback also for better evaluation. But for first request feedback fields will be false and won't be considered.
 
 ## Getting Started
 
